@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Mila6777
-- 🌱 I’m currently learning Testing.
+- 🌱 My best sills: installation and configuration of software, user support
+- 🌱 My work experience: information security specialist, proofreader
+- 🌱 My interests: design, usability, english
 - 📫 How to reach me: mila6777@mail.ru
 
 <!---
